@@ -1,1 +1,1 @@
-# Some C exercises to learn some things
+# Some other C exercises to learn some things 🕹️#
